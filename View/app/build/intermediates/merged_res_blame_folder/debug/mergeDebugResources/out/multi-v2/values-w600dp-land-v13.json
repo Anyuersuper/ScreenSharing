@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.yuer.view.app-mergeDebugResources-41:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\5c34c6d539bb467e47991db6f94857b8\\transformed\\material-1.10.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}
