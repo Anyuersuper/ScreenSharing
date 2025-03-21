@@ -1,0 +1,3 @@
+通过websocket实现局域网屏幕共享
+host是分享屏幕的一端
+view是接受host分享的屏幕的一段
