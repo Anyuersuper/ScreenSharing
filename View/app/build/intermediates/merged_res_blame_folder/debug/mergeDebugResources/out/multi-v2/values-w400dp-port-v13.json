@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.yuer.view.app-mergeDebugResources-41:/values-w400dp-port-v13/values-w400dp-port-v13.xml",
+            "outputFile": "com.yuer.view.app-mergeDebugResources-29:/values-w400dp-port-v13/values-w400dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\5c34c6d539bb467e47991db6f94857b8\\transformed\\material-1.10.0\\res\\values-w400dp-port-v13\\values-w400dp-port-v13.xml",
+                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\a922ab8a784e64d919514d99eef38a5b\\transformed\\material-1.10.0\\res\\values-w400dp-port-v13\\values-w400dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

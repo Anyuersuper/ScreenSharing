@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.yuer.view.app-mergeDebugResources-41:/values-v25/values-v25.xml",
+            "outputFile": "com.yuer.view.app-mergeDebugResources-29:/values-v25/values-v25.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\1b7f87a217f6c147370bc0d4ab153c8d\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
+                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\6710756055e2bdc0ec40f8e1cae69acd\\transformed\\appcompat-1.6.1\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

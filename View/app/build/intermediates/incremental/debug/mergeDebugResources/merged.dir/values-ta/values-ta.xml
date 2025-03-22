@@ -98,8 +98,6 @@
     <string name="mtrl_picker_toggle_to_year_selection">ஆண்டுக் காட்சிக்கு மாற தட்டவும்</string>
     <string name="mtrl_timepicker_cancel">ரத்துசெய்</string>
     <string name="mtrl_timepicker_confirm">சரி</string>
-    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"மேலே செல்லும்"</string>
-    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"வழிசெலுத்தல் டிராயரைத் திறக்கும்"</string>
     <string name="password_toggle_content_description">கடவுச்சொல்லைக் காட்டு</string>
     <string msgid="6264217191555673260" name="search_menu_title">"தேடல்"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>

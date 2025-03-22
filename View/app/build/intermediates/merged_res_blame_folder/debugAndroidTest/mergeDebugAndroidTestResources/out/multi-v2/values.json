@@ -4,7 +4,7 @@
             "outputFile": "com.yuer.view.test.app-mergeDebugAndroidTestResources-3:/values/values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\ea0142084adf6f19b182d0a2d2112748\\transformed\\core-1.5.0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\ee640e866e61dfb9b1bc7b6b6cb0e29f\\transformed\\core-1.5.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,11",
                         "startColumns": "0,0",

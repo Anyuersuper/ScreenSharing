@@ -4,7 +4,7 @@
             "outputFile": "com.yuer.view.test.app-debugAndroidTest-5:/values-v21_values-v21.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\ea0142084adf6f19b182d0a2d2112748\\transformed\\core-1.5.0\\res\\values-v21\\values.xml",
+                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\ee640e866e61dfb9b1bc7b6b6cb0e29f\\transformed\\core-1.5.0\\res\\values-v21\\values.xml",
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",
@@ -28,7 +28,7 @@
             "outputFile": "com.yuer.view.test.app-debugAndroidTest-5:/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\ea0142084adf6f19b182d0a2d2112748\\transformed\\core-1.5.0\\res\\values\\values.xml",
+                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\ee640e866e61dfb9b1bc7b6b6cb0e29f\\transformed\\core-1.5.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,11",
                         "startColumns": "0,0",
@@ -52,7 +52,7 @@
             "outputFile": "com.yuer.view.test.app-debugAndroidTest-5:/values-v28_values-v28.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\ea0142084adf6f19b182d0a2d2112748\\transformed\\core-1.5.0\\res\\values-v28\\values.xml",
+                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\ee640e866e61dfb9b1bc7b6b6cb0e29f\\transformed\\core-1.5.0\\res\\values-v28\\values.xml",
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",
@@ -76,7 +76,7 @@
             "outputFile": "com.yuer.view.test.app-debugAndroidTest-5:/values-v18_values-v18.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\ea0142084adf6f19b182d0a2d2112748\\transformed\\core-1.5.0\\res\\values-v18\\values.xml",
+                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\ee640e866e61dfb9b1bc7b6b6cb0e29f\\transformed\\core-1.5.0\\res\\values-v18\\values.xml",
                     "from": {
                         "startLines": "4,12",
                         "startColumns": "0,0",
