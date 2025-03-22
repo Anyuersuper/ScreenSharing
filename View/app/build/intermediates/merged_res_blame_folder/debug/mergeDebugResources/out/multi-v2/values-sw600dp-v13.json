@@ -4,7 +4,7 @@
             "outputFile": "com.yuer.view.app-mergeDebugResources-29:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\a922ab8a784e64d919514d99eef38a5b\\transformed\\material-1.10.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Yuer\\.gradle\\wrapper\\dists\\gradle-4.0.1\\caches\\transforms-4\\a922ab8a784e64d919514d99eef38a5b\\transformed\\material-1.10.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\6710756055e2bdc0ec40f8e1cae69acd\\transformed\\appcompat-1.6.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Yuer\\.gradle\\wrapper\\dists\\gradle-4.0.1\\caches\\transforms-4\\6710756055e2bdc0ec40f8e1cae69acd\\transformed\\appcompat-1.6.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

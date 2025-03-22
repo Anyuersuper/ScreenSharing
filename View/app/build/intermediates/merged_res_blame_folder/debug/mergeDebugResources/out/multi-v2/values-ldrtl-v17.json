@@ -4,7 +4,7 @@
             "outputFile": "com.yuer.view.app-mergeDebugResources-29:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\a922ab8a784e64d919514d99eef38a5b\\transformed\\material-1.10.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\Yuer\\.gradle\\wrapper\\dists\\gradle-4.0.1\\caches\\transforms-4\\a922ab8a784e64d919514d99eef38a5b\\transformed\\material-1.10.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

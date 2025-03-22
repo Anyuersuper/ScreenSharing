@@ -4,7 +4,7 @@
             "outputFile": "com.yuer.view.app-mergeDebugResources-29:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Yuer\\.gradle\\caches\\transforms-4\\6710756055e2bdc0ec40f8e1cae69acd\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\Yuer\\.gradle\\wrapper\\dists\\gradle-4.0.1\\caches\\transforms-4\\6710756055e2bdc0ec40f8e1cae69acd\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

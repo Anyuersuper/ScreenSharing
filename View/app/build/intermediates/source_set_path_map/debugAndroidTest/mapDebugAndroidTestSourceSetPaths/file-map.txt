@@ -1,6 +1,6 @@
-com.yuer.view.test.app-annotation-experimental-1.3.0-0 C:\Users\Yuer\.gradle\caches\transforms-4\ee00e93cb8ad26f621b6612a5e112c73\transformed\annotation-experimental-1.3.0\res
-com.yuer.view.test.app-core-1.5.0-1 C:\Users\Yuer\.gradle\caches\transforms-4\ee640e866e61dfb9b1bc7b6b6cb0e29f\transformed\core-1.5.0\res
-com.yuer.view.test.app-androidTest-2 C:\Users\Yuer\AndroidStudioProjects\View\app\build\generated\res\resValues\androidTest\debug
-com.yuer.view.test.app-mergeDebugAndroidTestResources-3 C:\Users\Yuer\AndroidStudioProjects\View\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.yuer.view.test.app-mergeDebugAndroidTestResources-4 C:\Users\Yuer\AndroidStudioProjects\View\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.yuer.view.test.app-debugAndroidTest-5 C:\Users\Yuer\AndroidStudioProjects\View\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.yuer.view.test.app-annotation-experimental-1.3.0-0 C:\Users\Yuer\.gradle\wrapper\dists\gradle-4.0.1\caches\transforms-4\ee00e93cb8ad26f621b6612a5e112c73\transformed\annotation-experimental-1.3.0\res
+com.yuer.view.test.app-core-1.5.0-1 C:\Users\Yuer\.gradle\wrapper\dists\gradle-4.0.1\caches\transforms-4\ee640e866e61dfb9b1bc7b6b6cb0e29f\transformed\core-1.5.0\res
+com.yuer.view.test.app-androidTest-2 C:\Users\Yuer\AndroidStudioProjects\ScreenSharing\View\app\build\generated\res\resValues\androidTest\debug
+com.yuer.view.test.app-mergeDebugAndroidTestResources-3 C:\Users\Yuer\AndroidStudioProjects\ScreenSharing\View\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.yuer.view.test.app-mergeDebugAndroidTestResources-4 C:\Users\Yuer\AndroidStudioProjects\ScreenSharing\View\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.yuer.view.test.app-debugAndroidTest-5 C:\Users\Yuer\AndroidStudioProjects\ScreenSharing\View\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
