@@ -1,4 +1,5 @@
 package com.yuer.share11.encode;
+import com.yuer.share11.socket.SocketService;
 
 import android.hardware.display.DisplayManager;
 import android.hardware.display.VirtualDisplay;
@@ -9,7 +10,6 @@ import android.media.MediaFormat;
 import android.media.projection.MediaProjection;
 import android.util.Log;
 import android.view.Surface;
-import com.yuer.share11.socket.SocketService;
 import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.util.ArrayList;
