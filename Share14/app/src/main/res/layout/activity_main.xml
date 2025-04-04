@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tv_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="点击下方按钮直接开始屏幕投射"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="32dp"
+        android:minHeight="80dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginBottom="24dp">
+
+        <Button
+            android:id="@+id/btn_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="开始屏幕投射"
+            android:textSize="16sp"
+            android:paddingHorizontal="24dp"
+            android:paddingVertical="12dp"
+            android:onClick="onClick"/>
+
+        <!-- 已删除停止投射按钮 -->
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="16dp"
+        android:text="使用说明"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal" />
+
+    <TextView
+        android:id="@+id/tv_permission_guide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. 点击「开始屏幕投射」按钮\n2. 授予录音权限（如果提示）\n3. 在弹出的系统对话框中，选择「立即开始」允许录制屏幕\n4. 启动客户端应用接收画面\n5. 如果需要停止投射，请重新启动应用以重置状态"
+        android:textSize="14sp"
+        android:lineSpacingExtra="4dp"
+        android:gravity="left" />
+
+</LinearLayout>
