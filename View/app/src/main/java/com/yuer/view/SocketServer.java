@@ -4,6 +4,7 @@ package com.yuer.view;
 import android.util.Log;
 import org.java_websocket.client.WebSocketClient;
 import org.java_websocket.handshake.ServerHandshake;
+import org.json.JSONObject;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.nio.ByteBuffer;
@@ -45,12 +46,25 @@ public class SocketServer {
 
         @Override
         public void onMessage(String message) {
-            Log.d(TAG,"onMessage");
+            Log.d(TAG,"onMessage: " + message);
+            try {
+                // 尝试解析JSON消息，检查是否包含视频尺寸信息
+                JSONObject jsonObject = new JSONObject(message);
+                if (jsonObject.has("width") && jsonObject.has("height")) {
+                    int width = jsonObject.getInt("width");
+                    int height = jsonObject.getInt("height");
+                    if (socketCallback instanceof SecondMain) {
+                        ((SecondMain) socketCallback).updateVideoSize(width, height);
+                    }
+                }
+            } catch (Exception e) {
+                Log.e(TAG, "解析消息失败: " + e.getMessage());
+            }
         }
 
         @Override
         public void onMessage(ByteBuffer bytes) {
-            Log.d(TAG,"onMessage");
+            Log.d(TAG,"onMessage ByteBuffer");
             byte[] buf = new byte[bytes.remaining()];
             bytes.get(buf);
             socketCallback.callBack(buf);

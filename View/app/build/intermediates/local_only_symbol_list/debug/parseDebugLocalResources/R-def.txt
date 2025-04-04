@@ -12,6 +12,7 @@ layout activity_main
 layout activity_second
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap yuer
 string app_name
 style Base.Theme.View
 style Theme.View

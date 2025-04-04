@@ -37,9 +37,5 @@ dependencies {
     testImplementation libs.junit
     androidTestImplementation libs.ext.junit
     androidTestImplementation libs.espresso.core
-
-
     implementation "org.java-websocket:Java-WebSocket:1.4.0"
-
-
 }

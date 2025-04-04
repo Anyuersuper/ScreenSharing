@@ -13,7 +13,7 @@
         android:id="@+id/titleText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="请输入 IP 地址及端口：\n\n例子(10.70.122.79:11006)"
+        android:text="请输入 IP 地址及端口：\n\n例子(10.70.122.79:9837)"
         android:textSize="24sp"
         android:textColor="#333333"
         android:layout_gravity="center"

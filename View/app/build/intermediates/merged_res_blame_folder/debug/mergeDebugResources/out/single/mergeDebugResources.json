@@ -40,6 +40,10 @@
         "source": "com.yuer.view.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
+        "merged": "com.yuer.view.app-debug-31:/mipmap-hdpi_yuer.png.flat",
+        "source": "com.yuer.view.app-main-33:/mipmap-hdpi/yuer.png"
+    },
+    {
         "merged": "com.yuer.view.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
         "source": "com.yuer.view.app-main-33:/mipmap-hdpi/ic_launcher.webp"
     },
